@@ -2,7 +2,6 @@
 echo "Getting root privledges . . ."
 sudo echo "Done!"
 echo
-rm -rf build
 mkdir build
 cd build
 meson --prefix=/usr      \
@@ -12,3 +11,4 @@ meson --prefix=/usr      \
       ..
 ninja && sudo ninja install
 cd ..
+rm -rf build
