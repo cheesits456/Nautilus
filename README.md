@@ -1,4 +1,4 @@
-# Nautilus Fork
+# Nautilus Fork 
 
 This is my own custom fork of Nautilus that addresses some issues I have with the official version.
 
