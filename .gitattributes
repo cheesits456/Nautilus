@@ -9,7 +9,3 @@
 /data/run-uncrustify.sh                     export-ignore
 /data/uncrustify.cfg                        export-ignore
 /build-aux/make_release.sh                  export-ignore
-
-* linguist-vendored
-src/nautilus-enums.h  linguist-vendored=false
-src/nautilus-window.c linguist-vendored=false
