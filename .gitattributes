@@ -12,5 +12,4 @@
 
 * linguist-vendored
 src/nautilus-enums.h  linguist-vendored=false
-src/nautilus-file.c   linguist-vendored=false
 src/nautilus-window.c linguist-vendored=false
