@@ -12,7 +12,7 @@ Changes in this fork are as follows:
 
 ## Installing
 
-To install this fork, do the following commands in your terminal (this will replace any already-installed version of Nautilus):
+To install this fork, first ensure you have `meson` and `ninja` installed (package names may be different depending on your distro), then do the following commands in your terminal (this will replace any already-installed version of Nautilus):
 
 1. `git clone https://github.com/cheesits456/Nautilus.git`
 2. `cd Nautilus`
