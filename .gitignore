@@ -1,0 +1,7 @@
+*.la
+*.lo
+*.o
+.deps
+.libs
+.flatpak-builder
+/build
